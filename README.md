@@ -3,6 +3,6 @@
 
 | 软件 | 链接 |
 | :-----| :---- |
-| Surge | https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.module |
+| Surge | https://github.com/djc666888/xiaowangzi/tree/main/module |
 | Loon | https://raw.githubusercontent.com/app2smile/rules/master/plugin/spotify.plugin |
 | qx | https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.conf |
