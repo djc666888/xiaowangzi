@@ -5,4 +5,4 @@
 | :-----| :---- |
 | Surge | https://raw.githubusercontent.com/djc666888/xiaowangzi/refs/heads/main/module/spotify.module |
 | Loon | https://raw.githubusercontent.com/djc666888/xiaowangzi/refs/heads/main/module/spotify.stoverride |
-| qx |  |
+| qx | https://raw.githubusercontent.com/djc666888/xiaowangzi/refs/heads/main/module/spotify.conf |
